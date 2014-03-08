@@ -12,7 +12,7 @@ http://docs.python-guide.org/en/latest/dev/virtualenvs/
 
 
 ##Install necessary packages
-pip install -r requirements.tx
+pip install -r requirements.txt
 
 
 ##Run the app
